@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Apps</string>
+    <string name="please_wait">Please wait!</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_phone">Phone</string>
+    <string name="tv_tryagain">Try Again</string>
+    <string name="on_error">Something went wrong</string>
+    <string name="error_connection">Please check your internet connection</string>
+</resources>
